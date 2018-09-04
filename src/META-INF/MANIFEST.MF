@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: lwjgl.jar slick.jar jinput.jar Project 2.jar jogg-0.0.7.ja
+ r lwjgl_util.jar natives-mac.jar jorbis-0.0.15.jar natives-linux.jar 
+ natives-windows.jar lwjgl_util_applet.jar
+Main-Class: com.swen20003.project.App
+

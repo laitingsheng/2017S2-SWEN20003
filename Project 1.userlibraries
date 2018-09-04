@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="slick">
+    <archive path="D:/Slick/slick/lib/ibxm.jar" />
+    <archive path="D:/Slick/slick/lib/jnlp.jar" />
+    <archive path="D:/Slick/slick/lib/lwjgl.jar" />
+    <archive path="D:/Slick/slick/lib/slick.jar" />
+    <archive path="D:/Slick/slick/lib/jinput.jar" />
+    <archive path="D:/Slick/slick/lib/jogg-0.0.7.jar" />
+    <archive path="D:/Slick/slick/lib/lwjgl_util.jar" />
+    <archive path="D:/Slick/slick/lib/tinylinepp.jar" />
+    <archive path="D:/Slick/slick/lib/natives-mac.jar" />
+    <archive path="D:/Slick/slick/lib/jorbis-0.0.15.jar" />
+    <archive path="D:/Slick/slick/lib/natives-linux.jar" />
+    <archive path="D:/Slick/slick/lib/slick-examples.jar" />
+    <archive path="D:/Slick/slick/lib/natives-windows.jar" />
+    <archive path="D:/Slick/slick/lib/lwjgl_util_applet.jar" />
+  </library>
+</eclipse-userlibraries>
+
